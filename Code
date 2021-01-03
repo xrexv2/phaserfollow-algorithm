@@ -1,0 +1,125 @@
+//detect the position of the sprite:
+this.sprite1x = this.sprite1.x
+this.sprite1y = this.sprite1.y
+this.sprite2x = this.sprite2.x
+this.sprite2y = this.sprite2.y
+if (this.sprite1x = 10){
+
+}
+if (this.sprite1x = 20)
+
+}
+if (this.sprite1x = 30){
+
+}
+if (this.sprite1x = 40){
+
+}
+if (this.sprite1x = 50){
+
+}
+if (this.sprite1x = 60){
+
+}
+if (this.sprite1x = 70){
+
+}
+if (this.sprite1x = 80){
+
+}
+if (this.sprite1x = 90){
+
+}
+if (this.sprite1x = 100){
+
+}
+if (this.sprite1x = 110){
+
+}
+if (this.sprite1x = 120){
+
+}
+if (this.sprite1x = 130){
+
+}
+if (this.sprite1x = 140){
+
+}
+if (this.sprite1x = 150){
+
+}
+if (this.sprite1x = 160){
+
+}
+if (this.sprite1x = 170){
+
+}
+if (this.sprite1x = 180){
+
+}
+if (this.sprite1x = 190){
+
+}
+if (this.sprite1x = 200){
+
+}
+if (this.sprite1x = 210){
+
+}
+if (this.sprite1x = 220)
+
+}
+if (this.sprite1x = 230){
+
+}
+if (this.sprite1x = 240){
+
+}
+if (this.sprite1x = 250){
+
+}
+if (this.sprite1x = 260){
+
+}
+if (this.sprite1x = 270){
+
+}
+if (this.sprite1x = 280){
+
+}
+if (this.sprite1x = 290){
+
+}
+if (this.sprite1x = 300){
+
+}
+if (this.sprite1x = 310){
+
+}
+if (this.sprite1x = 320){
+
+}
+if (this.sprite1x = 330){
+
+}
+if (this.sprite1x = 340){
+
+}
+if (this.sprite1x = 350){
+
+}
+if (this.sprite1x = 360){
+
+}
+if (this.sprite1x = 370){
+
+}
+if (this.sprite1x = 380){
+
+}
+if (this.sprite1x = 390){
+
+}
+if (this.sprite1x = 400){
+
+}
